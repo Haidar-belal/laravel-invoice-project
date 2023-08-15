@@ -4,7 +4,7 @@ Laravel Invoice Management System is a web application designed to simplify invo
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/yourusername/laravel-invoice.git`
+1. Clone the repository: `git clone https://github.com/Haidar-belal/laravel-invoice-project.git`
 2. Navigate to the project directory: `cd laravel-invoice-project`
 3. Install Composer dependencies: `composer install`
 4. Copy `.env.example` to `.env` and configure environment variables.
